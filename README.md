@@ -60,7 +60,7 @@ GooglePlay_EDA/
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/GooglePlay_EDA.git
+   git clone https://github.com/dishakarmakar1210/GooglePlay_EDA.git
    ```
 2. Open the Jupyter notebook:
    ```bash
